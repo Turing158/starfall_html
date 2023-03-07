@@ -46,7 +46,7 @@
     height: 600px;
     overflow: hidden;
     object-fit: cover;
-    background-image: url(/img/skyblock.jpg);
+    background-image: url(../img/skyblock.jpg);
     background-repeat: no-repeat;
     left: 160px;
     top:-40px;
@@ -144,7 +144,7 @@
     background-repeat: no-repeat;
     background-size: 1500px;
     object-fit:cover;
-    background-image: url(/img/bedwars.png);
+    background-image: url(../img/bedwars.png);
     border-style: solid;
     border-radius: 5px;
     transition: all 500ms;
